@@ -17,7 +17,7 @@ body {
   padding: 10px;
 }
 
-.testimonial-container {
+.testimonials-container {
   background-color: #476ce4;
   color: white;
   border-radius: 15px;
@@ -82,7 +82,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  .testimonial-container {
+  .testimonials-container {
     padding: 20px 30px;
   }
   .fa-quote {
